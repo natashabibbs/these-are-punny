@@ -1,0 +1,19 @@
+body {
+font-family: 'Eagle Lake', cursive;
+  font-size: 30px;
+  background-color: #D56B6B;
+}
+
+button {
+  background-color: #EF8787;
+  border-radius: 6px;
+  font-family: 'Eagle Lake', cursive;
+}
+
+p {
+ font-family: 'Bungee', cursive;
+}
+
+button: hover{
+  background-color: #5376BD;
+}
